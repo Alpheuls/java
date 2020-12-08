@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.test.Mac.MacApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.383 s - in com.test.Mac.MacApplicationTests
